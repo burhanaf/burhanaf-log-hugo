@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Burhan LOG</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Burhan LOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sun, 03 Jan 2021 11:15:14 +0800</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>html</title>
+      <link>http://example.org/tags/html/</link>
+      <pubDate>Sun, 03 Jan 2021 11:15:14 +0800</pubDate>
+      
+      <guid>http://example.org/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>js</title>
+      <link>http://example.org/tags/js/</link>
+      <pubDate>Sun, 03 Jan 2021 11:12:16 +0800</pubDate>
+      
+      <guid>http://example.org/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ababab</title>
+      <link>http://example.org/tags/ababab/</link>
+      <pubDate>Sun, 03 Jan 2021 09:44:04 +0800</pubDate>
+      
+      <guid>http://example.org/tags/ababab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uuuuu</title>
+      <link>http://example.org/tags/uuuuu/</link>
+      <pubDate>Sun, 03 Jan 2021 09:44:04 +0800</pubDate>
+      
+      <guid>http://example.org/tags/uuuuu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>http://example.org/tags/css/</link>
+      <pubDate>Sun, 03 Jan 2021 09:29:58 +0800</pubDate>
+      
+      <guid>http://example.org/tags/css/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

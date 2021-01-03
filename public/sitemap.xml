@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2021-01-03T11:15:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-01-03T11:15:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/fourth/</loc>
+    <lastmod>2021-01-03T11:15:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/html/</loc>
+    <lastmod>2021-01-03T11:15:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2021-01-03T11:15:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/js/</loc>
+    <lastmod>2021-01-03T11:12:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/third/</loc>
+    <lastmod>2021-01-03T11:12:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/kontak/</loc>
+    <lastmod>2021-01-03T10:08:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/rekomendasi/buku/</loc>
+    <lastmod>2021-01-03T09:57:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/rekomendasi/</loc>
+    <lastmod>2021-01-03T09:57:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/ababab/</loc>
+    <lastmod>2021-01-03T09:44:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/second-post/</loc>
+    <lastmod>2021-01-03T09:44:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/uuuuu/</loc>
+    <lastmod>2021-01-03T09:44:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/belajar-hugo/</loc>
+    <lastmod>2021-01-03T09:29:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/css/</loc>
+    <lastmod>2021-01-03T09:29:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+</urlset>
