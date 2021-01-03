@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+{{ if isset .Params "featured_image" }}
+<img src="{{ .Params.featured_image }}" alt="post" width="300">
+<hr>
+{{ end }}
+
+
+<h1>
+    {{ .Title }}
+</h1>
+
+{{/*  single Content  */}}
+
+<div>
+    {{ .Content }}
+    <span>Dibuat {{.Date.Format "2006-01-02"}} </span>
+</div>
+
+Tags:
+{{ with .Params.tags }}
+    <ul>
+        {{ range . }}
+            <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+    </ul>
+{{ end }}
+
+{{/*  end Content  */}}
+
+{{/*  Kolom Komentar  */}}
+
+{{/*  end Komentar  */}}
+
+{{ template "_internal/disqus.html" . }}
+
+{{ end }}

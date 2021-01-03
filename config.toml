@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "id-id"
+title = "Burhan LOG"
+theme="customtheme"
+summaryLength = 10
+paginate = 2
+disqusShortname = "burhanaf"
+[params]
+    Description = "Catatan / Coretan kegiatanku"

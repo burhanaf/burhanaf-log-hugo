@@ -1,0 +1,15 @@
+<a href="/">Home</a>
+<a href="/blog">blog</a>
+<a href="/rekomendasi">rekomendasi</a>
+
+{{ if .IsHome }}
+<p>
+    Hanya muncul di home
+</p>
+{{ end }}
+
+{{ if .IsPage }}
+<p>
+    Hanya muncul di halaman konten
+</p>
+{{ end }}
